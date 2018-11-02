@@ -9,7 +9,7 @@ This website is intended for people who have a basic knowledge in Python and wan
 Here are the list of topics covered:
 
 1. PEP-8 Coding Guide
-2. Generators
+2. [Generators](./concepts/generators.html)
 3. Decorators
  - Overview
  - ClassMethod
